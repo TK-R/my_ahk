@@ -4,15 +4,18 @@
 ; クリック動作
 sc03A & LButton::send ^{LButton}
 
-; CapslockでCtrl相当の動作を実行するよう変更
-sc03A & q::send ^{q}
+; Capslockで所定の動作を行うように変更
+sc03A & h::send {BS}
+sc03A & i::send {Up}
+sc03A & j::send {Left}
+sc03A & k::send {Down}
+sc03A & l::send {Right}
+
 sc03A & w::send ^{w}
-sc03A & e::send ^{e}
 sc03A & r::send ^{r}
 sc03A & t::send ^{t}
 sc03A & y::send ^{y}
 sc03A & u::send ^{u}
-sc03A & i::send ^{i}
 sc03A & o::send ^{o}
 sc03A & p::send ^{p}
 sc03A & a::send ^{a}
@@ -20,10 +23,6 @@ sc03A & s::send ^{s}
 sc03A & d::send ^{d}
 sc03A & f::send ^{f}
 sc03A & g::send ^{g}
-sc03A & h::send ^{h}
-sc03A & j::send ^{j}
-sc03A & k::send ^{k}
-sc03A & l::send ^{l}
 sc03A & z::send ^{z}
 sc03A & x::send ^{x}
 sc03A & c::send ^{c}
