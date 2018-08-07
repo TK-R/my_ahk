@@ -6,6 +6,7 @@
 ・バックスペースと\キーを入れ替え
 
 以下のスクリプトを使用させて頂きました。この場を借りてお礼申し上げます。
+
 ・alt-ime-ahk
 https://github.com/karakaram/alt-ime-ahk
 
