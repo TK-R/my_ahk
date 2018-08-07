@@ -7,8 +7,8 @@
 
 以下のスクリプトを使用させて頂きました。この場を借りてお礼申し上げます。
 
-・alt-ime-ahk
+- alt-ime-ahk
 https://github.com/karakaram/alt-ime-ahk
 
-・IME.ahk
+- IME.ahk
 https://www6.atwiki.jp/eamat/pages/17.html
