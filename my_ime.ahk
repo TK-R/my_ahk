@@ -28,9 +28,11 @@ sc03A & x::send ^{x}
 sc03A & c::send ^{c}
 sc03A & v::send ^{v}
 sc03A & b::send ^{b}
-;sc03A & n::send ^{n}
 sc03A & m::send ^{m}
 sc03A & .::send ^{.}
+`;::send ^{`;}
+
+
 
 ;NキーだけはShiftキーとの同時押しに対応
 sc03A & n::
